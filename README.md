@@ -122,3 +122,7 @@ This project demonstrates:
 ## License
 
 Educational project - free to use and modify for learning purposes.
+
+## Created by: 
+### Oclarit, Remar a.k.a Ramiruuu
+### Yamson, Lordjustine 
